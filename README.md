@@ -67,4 +67,4 @@
 
 ### One-Line Install
 ```bash
-git clone https://github.com/ashen-editz/EZ-TOOLS.git && cd EZ-TOOLS && chmod +x install.sh && ./install.sh
+git clone https://github.com/AshenEditz/Ez-tool-v1.git && cd EZ-TOOLS && chmod +x install.sh && ./install.sh
